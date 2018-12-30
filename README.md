@@ -1,6 +1,6 @@
-Project 3
+# Project 3
 
-##Final Project Requirements
+## Final Project Requirements
 
 ### Must use React, Vue, or Angular in some way (even if minimal)
 
